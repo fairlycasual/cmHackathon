@@ -42,7 +42,7 @@ if (workbox) {
   },
   {
     "url": "index.html",
-    "revision": "a0e4d3990487d7d323e9c34b1a2eb051"
+    "revision": "1d69855052f49e9acedd3886c73d41c4"
   },
   {
     "url": "js/animation.js",
@@ -50,11 +50,11 @@ if (workbox) {
   },
   {
     "url": "js/enablePush.js",
-    "revision": "d41d8cd98f00b204e9800998ecf8427e"
+    "revision": "3e723f42dc5a7ea58d17f1bcef7fb2ee"
   },
   {
     "url": "js/main.js",
-    "revision": "7ef56e11295d675076395b8158184840"
+    "revision": "667aaf054caf869ee8a4fc936eaffaad"
   },
   {
     "url": "js/updateBtn.js",
